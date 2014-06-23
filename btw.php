@@ -15,4 +15,6 @@ if ( true === isset($options) ) {
 $btw_calc = $btw+100;
 $result = $total/$btw_calc*$btw;
 
+$result = number_format($result,2);
+
 return $result;

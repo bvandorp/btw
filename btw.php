@@ -1,6 +1,6 @@
 <?php
 //output modifier to calculate percentage tax by given amount
-//useage: [[+btwvalue:btw=`21`]]
+//usage: [[+btwvalue:btw=`21`]]
 
 $defaultbtw = 21;
 

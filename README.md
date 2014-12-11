@@ -1,7 +1,8 @@
-btw
-===
-
+#btw
 MODx BTW output modifier<br/>
 displays the tax amount of the placeholder by the percentage given
 
-Usage: [[+amount:btw=`21`]]
+##Example usage
+```
+[[+amount:btw=`21`]]
+```
